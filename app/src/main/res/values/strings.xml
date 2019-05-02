@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">MadLibs</string>
+    <string name="title_activity_word">wordActivity</string>
+    <string name="title_activity_text_story">text_story</string>
+    <string name="title_activity_text_stotry">text_stotry</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
 </resources>
