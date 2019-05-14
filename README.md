@@ -12,7 +12,7 @@ Ik heb ook het icon van de app veranderd.
 ![mad-libs_main](mad_libs.jpg)
 ![mad_libs_main_land](mad_libs_land.jpg)
 ![mad_libs_fill_in](mad_libs_fill_in.jpg)
-![mad_libs_fill_in_land](mad_libs_fill_in_land.jpg)
+![mad_lib_fill_in_land](mad_lib_fill_in_land.jpg)
 ![mad_libs_eindVerhaal](mad_libs_story.jpg)
 ![mad_libs_eindVerhal_ land](mad_libs_story_land.jpg)
 ![mad_libs_icon](mad_libs_icon.jpg)
