@@ -1,6 +1,6 @@
 # Mad-libs
 
-Ik heb een Mad-lobs app gemaakt. Waarbij je uit vijf verschillende verhalen kan kiezen.
+Ik heb een Mad-libs app gemaakt. Waarbij je uit vijf verschillende verhalen kan kiezen.
 Dan doorverwezen wordt naar een nieuwe pagina en daar de missende woorden in kan vullen.
 
 Dit doet het ook in land mode. 
